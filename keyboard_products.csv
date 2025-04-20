@@ -1,0 +1,101 @@
+ProductID,Brand,Model,Type,Switch,Layout,PriceUSD,Stock,ReleaseDate
+1,HP,HP-QI-340,Optical,Black,JIS,93.41,446,2023-08-20
+2,Logitech,Logitech-FU-322,Mechanical,Black,JIS,132.51,160,2023-02-17
+3,ASUS,ASUS-JM-026,Hybrid,Silent Red,ISO,96.8,374,2025-01-25
+4,Keychron,Keychron-US-139,Hybrid,Green,ANSI,154.61,115,2024-07-06
+5,Logitech,Logitech-PA-522,Hybrid,Brown,ISO,35.94,8,2023-03-01
+6,HP,HP-ZE-245,Hybrid,Red,JIS,78.94,43,2023-06-30
+7,Dell,Dell-RJ-711,Hybrid,Brown,ISO,119.91,44,2022-06-17
+8,Razer,Razer-CN-326,Optical,Brown,JIS,53.8,91,2025-01-30
+9,ASUS,ASUS-MS-803,Hybrid,Green,JIS,122.61,400,2023-01-13
+10,HyperX,HyperX-BG-114,Membrane,Red,ISO,42.8,478,2025-02-24
+11,Razer,Razer-GJ-668,Hybrid,Silent Red,ISO,83.05,212,2025-04-11
+12,Logitech,Logitech-GZ-826,Hybrid,Red,JIS,54.76,282,2022-06-12
+13,Dell,Dell-DQ-488,Hybrid,Red,JIS,146.48,280,2023-02-20
+14,Microsoft,Microsoft-AG-075,Hybrid,Black,ANSI,177.38,165,2023-10-10
+15,Microsoft,Microsoft-WD-720,Mechanical,Silent Red,ANSI,48.75,119,2023-01-16
+16,Microsoft,Microsoft-ZW-058,Mechanical,Green,ANSI,179.28,254,2023-05-23
+17,Razer,Razer-NG-012,Membrane,Blue,ANSI,196.36,109,2022-12-09
+18,HyperX,HyperX-MR-188,Mechanical,Brown,ANSI,75.79,497,2022-05-12
+19,Corsair,Corsair-ZF-021,Optical,Red,ANSI,99.74,214,2024-09-05
+20,Dell,Dell-WP-578,Mechanical,Black,ISO,153.57,353,2024-04-15
+21,Microsoft,Microsoft-IH-393,Mechanical,Silent Red,ANSI,106.52,27,2023-09-20
+22,HP,HP-YP-421,Hybrid,Blue,JIS,196.29,179,2025-01-20
+23,HyperX,HyperX-FT-440,Mechanical,Red,JIS,86.53,91,2023-07-06
+24,Logitech,Logitech-VM-665,Membrane,Green,ISO,133.5,290,2024-11-16
+25,Dell,Dell-VA-380,Hybrid,Black,ANSI,65.93,361,2025-01-06
+26,SteelSeries,SteelSeries-JI-476,Optical,Brown,ANSI,152.93,366,2024-08-19
+27,Dell,Dell-CR-118,Hybrid,Red,ANSI,77.96,196,2024-10-02
+28,Keychron,Keychron-TN-668,Hybrid,Red,ISO,156.37,470,2023-09-26
+29,SteelSeries,SteelSeries-KJ-229,Mechanical,Red,ANSI,133.6,452,2022-12-02
+30,SteelSeries,SteelSeries-AW-511,Hybrid,Green,JIS,179.74,21,2022-10-18
+31,SteelSeries,SteelSeries-CY-539,Optical,Black,JIS,141.72,446,2023-11-18
+32,Keychron,Keychron-RC-916,Optical,Blue,ISO,130.58,478,2024-04-29
+33,Microsoft,Microsoft-VM-097,Membrane,Silent Red,ANSI,123.98,467,2024-02-12
+34,HP,HP-XE-380,Optical,Silent Red,ANSI,147.84,194,2024-01-13
+35,Dell,Dell-HH-675,Hybrid,Blue,ISO,61.78,153,2024-09-25
+36,Corsair,Corsair-AQ-245,Membrane,Red,JIS,180.47,225,2023-07-09
+37,Logitech,Logitech-QM-551,Hybrid,Blue,ANSI,115.69,122,2023-08-04
+38,Microsoft,Microsoft-RF-075,Membrane,Silent Red,ANSI,178.56,231,2022-11-08
+39,HP,HP-UU-331,Membrane,Brown,ANSI,63.62,140,2023-01-02
+40,Microsoft,Microsoft-AK-956,Mechanical,Blue,JIS,103.42,116,2024-04-28
+41,HyperX,HyperX-FQ-331,Hybrid,Green,ANSI,187.95,389,2024-10-02
+42,SteelSeries,SteelSeries-OT-969,Membrane,Blue,ANSI,124.44,343,2023-11-10
+43,SteelSeries,SteelSeries-MP-900,Membrane,Green,ISO,52.1,201,2024-08-30
+44,ASUS,ASUS-AJ-263,Hybrid,Brown,ISO,46.21,296,2023-02-20
+45,Corsair,Corsair-HO-458,Hybrid,Green,ANSI,185.21,5,2025-01-26
+46,Dell,Dell-AB-062,Optical,Black,ISO,41.24,164,2023-03-21
+47,Keychron,Keychron-OP-715,Hybrid,Brown,ISO,68.16,157,2023-07-13
+48,Razer,Razer-AA-445,Membrane,Brown,ISO,105.28,428,2025-02-02
+49,Microsoft,Microsoft-BH-430,Optical,Green,ANSI,119.8,245,2024-06-19
+50,Dell,Dell-AH-362,Optical,Silent Red,ISO,85.42,151,2022-06-13
+51,Logitech,Logitech-NZ-704,Hybrid,Blue,JIS,74.29,80,2023-07-31
+52,Keychron,Keychron-JJ-967,Mechanical,Silent Red,JIS,58.93,468,2023-02-25
+53,ASUS,ASUS-IN-452,Membrane,Green,JIS,41.72,75,2023-08-03
+54,Dell,Dell-ST-308,Membrane,Blue,ANSI,170.99,478,2023-12-11
+55,Razer,Razer-XD-650,Optical,Green,ANSI,69.75,273,2024-05-06
+56,ASUS,ASUS-BI-565,Mechanical,Silent Red,JIS,78.53,206,2023-05-08
+57,Razer,Razer-FF-554,Membrane,Green,ANSI,151.02,297,2024-06-27
+58,Logitech,Logitech-FU-467,Mechanical,Blue,ANSI,128.37,72,2023-07-01
+59,SteelSeries,SteelSeries-VK-583,Mechanical,Black,ANSI,182.15,458,2022-05-03
+60,Dell,Dell-RV-640,Membrane,Silent Red,ISO,95.21,186,2025-01-30
+61,Dell,Dell-YX-235,Membrane,Silent Red,ANSI,181.51,183,2023-12-22
+62,HyperX,HyperX-DZ-549,Hybrid,Green,JIS,159.45,274,2022-05-26
+63,HyperX,HyperX-DI-132,Hybrid,Silent Red,JIS,30.47,63,2024-01-31
+64,HP,HP-KA-558,Mechanical,Green,JIS,120.02,202,2023-08-21
+65,Logitech,Logitech-CB-183,Hybrid,Silent Red,ANSI,50.19,111,2022-11-29
+66,Microsoft,Microsoft-OO-697,Membrane,Brown,ISO,79.55,93,2023-08-19
+67,Microsoft,Microsoft-XI-287,Hybrid,Red,JIS,184.94,187,2024-12-19
+68,ASUS,ASUS-LL-731,Hybrid,Red,ANSI,82.8,194,2024-08-06
+69,Razer,Razer-MO-521,Mechanical,Brown,ANSI,77.12,497,2024-08-07
+70,Microsoft,Microsoft-UO-429,Optical,Silent Red,JIS,47.55,418,2022-04-22
+71,Logitech,Logitech-YX-641,Mechanical,Red,JIS,194.95,1,2024-11-01
+72,SteelSeries,SteelSeries-XW-654,Hybrid,Red,JIS,156.04,462,2024-12-01
+73,Corsair,Corsair-NV-790,Mechanical,Silent Red,ISO,57.02,395,2023-09-09
+74,Logitech,Logitech-TO-344,Hybrid,Black,ISO,60.57,119,2023-06-13
+75,Corsair,Corsair-PZ-657,Hybrid,Brown,ISO,88.35,322,2023-02-04
+76,HP,HP-BH-644,Mechanical,Black,ANSI,118.64,473,2022-06-12
+77,Keychron,Keychron-KC-735,Hybrid,Red,ISO,198.73,399,2023-09-17
+78,ASUS,ASUS-MC-652,Hybrid,Blue,JIS,141.98,376,2024-07-12
+79,Razer,Razer-SA-445,Mechanical,Brown,ANSI,155.75,215,2023-06-07
+80,Logitech,Logitech-YI-612,Mechanical,Blue,ISO,177.01,495,2022-11-02
+81,Dell,Dell-IR-132,Mechanical,Silent Red,ISO,89.26,115,2022-06-17
+82,Logitech,Logitech-TT-290,Mechanical,Black,ANSI,181.45,291,2023-04-27
+83,ASUS,ASUS-XQ-888,Membrane,Red,ISO,111.52,32,2023-08-23
+84,HyperX,HyperX-ZT-706,Hybrid,Red,ANSI,127.47,462,2025-01-03
+85,Corsair,Corsair-FG-246,Membrane,Blue,ANSI,102.97,496,2023-05-04
+86,HP,HP-ET-875,Optical,Black,ISO,39.56,310,2023-01-15
+87,HP,HP-SO-228,Membrane,Green,ISO,103.85,53,2023-12-21
+88,Razer,Razer-NL-987,Optical,Red,ISO,193.01,471,2025-02-27
+89,HyperX,HyperX-SQ-581,Mechanical,Black,JIS,73.62,358,2024-04-27
+90,ASUS,ASUS-IP-257,Hybrid,Black,JIS,44.12,374,2022-11-15
+91,Corsair,Corsair-RK-841,Optical,Blue,ANSI,46.72,336,2022-08-04
+92,Keychron,Keychron-BF-309,Membrane,Green,ANSI,89.27,442,2024-09-30
+93,HyperX,HyperX-AN-384,Mechanical,Red,ANSI,54.54,189,2022-07-12
+94,Logitech,Logitech-HM-814,Membrane,Silent Red,ISO,167.21,396,2023-10-08
+95,Keychron,Keychron-WI-299,Membrane,Green,ISO,192.08,217,2024-07-14
+96,Razer,Razer-CA-524,Mechanical,Blue,ANSI,112.04,21,2023-11-22
+97,Corsair,Corsair-IZ-737,Optical,Silent Red,JIS,181.15,390,2025-03-19
+98,ASUS,ASUS-IR-884,Membrane,Red,JIS,132.16,420,2024-05-23
+99,Corsair,Corsair-EZ-436,Membrane,Blue,ISO,153.67,433,2022-08-25
+100,Corsair,Corsair-CE-224,Mechanical,Black,ISO,160.29,75,2022-07-29
